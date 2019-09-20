@@ -47,7 +47,6 @@
   </distributionManagement>
 
   <modules>
-    <module>ttt-tools</module>
     <module>ttt-ttv</module>
     <module>ttt-ttv-all</module>
     <module>ttt-ttx</module>
